@@ -2,4 +2,4 @@
 
 Implemented the Mandelbrot function and translated the result to an image.
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100" height="100" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mandelbrot_sequence_new.gif/220px-Mandelbrot_sequence_new.gif" width="200" height="200" />
